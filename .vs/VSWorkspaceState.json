@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\img",
+    "\\js",
     "\\_posts"
   ],
-  "SelectedNode": "\\CNAME",
+  "SelectedNode": "\\_config.yml",
   "PreviewInSolutionExplorer": false
 }
